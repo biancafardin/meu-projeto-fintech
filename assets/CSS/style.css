@@ -1,0 +1,41 @@
+body {
+    background-color: #ecfaff;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.container {
+    margin-top: 20px;
+    color:#414141;
+}
+
+.card {
+    background-color:#d2e1fb;
+    border-radius: 15px;
+    border:none;
+    color:#a3a3a3;
+}
+
+.card-body {
+    padding: 1rem;
+    color:#414141;
+}
+
+.navbar-brand {
+    color: #eefaff;
+    font-size: 25px;
+}
+
+.card-text {
+    color:#414141;
+}
+
+.col {
+    color:#a3a3a3;
+}
+
+.btn {
+    font-size: 13px;
+}
+
